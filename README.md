@@ -1,3 +1,17 @@
+### This project is a WIP
+
+*Project Overview:*
+The Filecoin Ecosystem lacks sufficient _batch transaction_ tooling, which is crucial for efficiently running ecosystem programs and for sending FIL to a recipient's preferred wallet address. SendFIL solves this by enabling the following transaction types:
+
+1. Single-Signer Wallet (f1) as the sender to one or multiple or a _mix of multiple_ f1, f2, f4, or 0x addresses.
+2. Multi-Signer Wallet (f2) as the sender to one or multiple or a _mix of multiple_ f1, f2, f4, or 0x addresses.
+
+With this functionality, a FIL Sender can simply send FIL to a group users' _preferred_ addresses via a straightforward UI or batch transaction template.
+
+----
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
