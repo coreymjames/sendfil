@@ -1,6 +1,6 @@
 ### This project is a WIP
 
-*Project Overview:*
+**Project Overview**:
 The Filecoin Ecosystem lacks sufficient _batch transaction_ tooling, which is crucial for efficiently running ecosystem programs and for sending FIL to a recipient's preferred wallet address. SendFIL solves this by enabling the following transaction types:
 
 1. Single-Signer Wallet (f1) as the sender to one or multiple or a _mix of multiple_ f1, f2, f4, or 0x addresses.
